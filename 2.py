@@ -1,4 +1,5 @@
-def fib(n): 
+def fib(n):
+    "Вывод  первых n чисел Фибоначчи😎"
     first = 1
     second = 1
     for i in range(n):
